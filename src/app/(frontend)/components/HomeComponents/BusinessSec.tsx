@@ -32,10 +32,10 @@ const BusinessSec = () => {
 
         <div className="businerr-row">
           <div className="business-div1">
-          <h3>Here's how Handis
-            <span>can help your</span>
-            <span>business!</span>
-          </h3>
+          <h3>Here&apos;s how Handis
+  <span>can help your</span>
+  <span>business!</span>
+</h3>
           <p>Build more meaningful and lasting relationships — better understand their needs, identify new opportunities to help, address any problems faster.</p>
           <Link href="" className='get-listed'>Get Listed</Link>
         </div>
